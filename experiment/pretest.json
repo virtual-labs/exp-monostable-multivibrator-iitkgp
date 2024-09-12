@@ -2,37 +2,63 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "What is the formula to calculate the time period of the monostable multivibrator.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "T = 0.69 * (R<sub>A</sub> + R<sub>B</sub>) * C",
+        "b": "T = 0.69 * (R<sub>A</sub> + 2R<sub>B</sub>) * C",
+        "c": "T = 0.69 * R<sub>B</sub> * C",
+        "d": "T = 1.1 * R * C"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "When a capacitor charges:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": " the voltage across the plates rises exponentially",
+        "b": "the circuit current falls exponentially",
+        "c": "the capacitor charges to the source voltage in 5×RC seconds",
+        "d": "all of the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The ________ is defined as the time the output is active divided by the total period of the output signal.",
+      "answers": {
+        "a": "active ratio",
+        "b": "duty cycle",
+        "c": "on time",
+        "d": "off time"
       },
-      "correctAnswer": "c",
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A monostable 555 timer has the following number of stable states:",
+      "answers": {
+        "a": "0",
+        "b": "1",
+        "c": "2",
+        "d": "3"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the output pulse width of the waveform at the output of the circuit in the given figure? <br/><p style=\"text-align:center\"><img src=\"images/post_quiz1.png \" style=\"width:350px;height:200px\"></p>",
+      "answers": {
+        "a": "1.65 ms",
+        "b": "18.2 ms",
+        "c": "4.98 ms",
+        "d": "54.6 ms"
+      },
+     
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
