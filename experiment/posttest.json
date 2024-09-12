@@ -2,37 +2,62 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "What does the discharge transistor do in the 555 timer circuit?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Charge the external capacitor to start the timing over again",
+        "b": "Charge the external capacitor to stop the timing",
+        "c": "Discharge the external capacitor to stop the timing",
+        "d": "Discharge the external capacitor to start the timing over again"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The monostable multivibrator circuit is not an oscillator because ________.",
+      "answers": {
+        "a": "Its output switches between two states",
+        "b": "It requires a sine wave input signal",
+        "c": "It requires a trigger to obtain an output signal",
+        "d": "The circuit does not require a dc power supply"
       },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The monostable multivibrator circuit is also know as ________.",
+      "answers": {
+        "a": "One shot",
+        "b": "Two shot",
+        "c": "Three shot",
+        "d": "Four shot"
+      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "A monostable 555 timer has one stable states:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "True",
+        "b": "False"
+       
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the formula to calculate the time period of the monostable multivibrator.",
+      "answers": {
+        "a": "T = 0.69 * (R<sub>A</sub> + R<sub>B</sub>) * C",
+        "b": "T = 0.69 * (R<sub>A</sub> + 2R<sub>B</sub>) * C",
+        "c": "T = 0.69 * R<sub>B</sub> * C",
+        "d": "T = 1.1 * R * C"
       },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
