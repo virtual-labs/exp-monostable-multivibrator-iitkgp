@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "What does the discharge transistor do in the 555 timer circuit?",
+      "question": "1. What does the discharge transistor do in the 555 timer circuit?",
       "answers": {
         "a": "Charge the external capacitor to start the timing over again",
         "b": "Charge the external capacitor to stop the timing",
@@ -14,7 +14,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "The monostable multivibrator circuit is not an oscillator because ________.",
+      "question": "2. The monostable multivibrator circuit is not an oscillator because ________.",
       "answers": {
         "a": "Its output switches between two states",
         "b": "It requires a sine wave input signal",
@@ -26,7 +26,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "The monostable multivibrator circuit is also know as ________.",
+      "question": "3. The monostable multivibrator circuit is also know as ________.",
       "answers": {
         "a": "One shot",
         "b": "Two shot",
@@ -38,7 +38,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "A monostable 555 timer has one stable states:",
+      "question": "4. A monostable 555 timer has one stable states:",
       "answers": {
         "a": "True",
         "b": "False"
@@ -49,7 +49,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "What is the formula to calculate the time period of the monostable multivibrator.",
+      "question": "5. What is the formula to calculate the time period of the monostable multivibrator.",
       "answers": {
         "a": "T = 0.69 * (R<sub>A</sub> + R<sub>B</sub>) * C",
         "b": "T = 0.69 * (R<sub>A</sub> + 2R<sub>B</sub>) * C",
