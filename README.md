@@ -1,10 +1,10 @@
 ## Introduction
 
 
-<b>Discipline | <b>Electronics and Communication and Engineering
+<b>Discipline | <b>Electronics and CommunicationEngineering
 :--|:--|
 <b> Lab | <b>  Analog Electronics Circuits Virtual Laboratory
-<b> Experiment|     <b> Monostable Multivibrator using IC 555
+<b> Experiment Name|     <b> Monostable Multivibrator using IC 555
 
 ### About the Experiment 
 
